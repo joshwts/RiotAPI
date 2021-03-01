@@ -38,5 +38,5 @@ This method does not return any values.
 ##### **Request**
 
 ```
-POST create_champion/sona/support/ionia
+PUT create_champion/sona/support/ionia
 ```
