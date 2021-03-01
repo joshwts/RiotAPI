@@ -1,12 +1,12 @@
 # Create Champion
 
 ```
-POST create_champion/{name}/{role}/{origin}
+PUT create_champion/{name}/{role}/{origin}
 ```
 
 ## Description
 
-Creates a champion and adds it to the database.
+Creates a champion and appends it to the database list.
 
 ## Parameters
 
@@ -39,14 +39,4 @@ This method does not return any values.
 
 ```
 POST create_champion/sona/support/ionia
-```
-
-##### Return
-
-```
-{
-   'name': 'sona',
-   'role': 'support',
-   'origin': 'ionia'
-}
 ```
