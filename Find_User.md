@@ -6,7 +6,7 @@ GET find_user/{username}
 
 ## Description
 
-Returns a list of users matching the specificed username.
+Returns a list of user information matching the specificed username.
 
 ## Parameters
 
