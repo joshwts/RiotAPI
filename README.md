@@ -20,7 +20,7 @@ Returns a list of champions matching the specified name, role, or origin.
 
 Creates a champion and adds it to the database.
 
-[POST create_champion](Create_Champion.md)
+[PUT create_champion](Create_Champion.md)
 
 ### Find_User
 
