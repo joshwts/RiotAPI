@@ -18,7 +18,7 @@ At least one parameter is required from the following:
 
 ## Returns
 
-**user_suggestions** - List of users with the following values:
+**user_info** - List of users with the following values:
 
 | **Name**   | **Data Type** | Description            |
 | ---------- | ------------- | ---------------------- |
