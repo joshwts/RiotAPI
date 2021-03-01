@@ -18,7 +18,7 @@ Returns a list of champions matching the specified name, role, or origin.
 
 ### Create_Champion
 
-Creates a champion and adds it to the database.
+Creates a champion and appends it to the database list.
 
 [PUT create_champion](Create_Champion.md)
 
