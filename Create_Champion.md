@@ -14,9 +14,9 @@ The following parameters are required:
 
 | Name   | Data Type | Description     |
 | ------ | --------- | --------------- |
-| name   | string    | Summoner name   |
-| role   | string    | Summoner role   |
-| origin | string    | Summoner origin |
+| name   | string    | Champion name   |
+| role   | string    | Champion role   |
+| origin | string    | Champion origin |
 
 ## Returns
 
