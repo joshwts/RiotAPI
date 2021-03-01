@@ -1,4 +1,4 @@
-# Find Champion
+# Find User
 
 ```
 GET find_user/{username}
