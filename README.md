@@ -1,12 +1,14 @@
 # RiotAPI
 
+Welcome to the Riot Developer API documentation.
+
 ## Table of Contents
 
-[Find_Champion](README.md#Find_Champion)
+**[Find_Champion](README.md#Find_Champion)**
 
-[Create_Champion](README.md#Create_Champion)
+**[Create_Champion](README.md#Create_Champion)**
 
-[Find_User](README.md#Find_User)
+**[Find_User](README.md#Find_User)**
 
 ### Find_Champion
 

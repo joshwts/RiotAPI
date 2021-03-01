@@ -1,7 +1,7 @@
-# 
+# Create Champion
 
 ```
-GET create_champion/{name}/{role}/{origin}
+POST create_champion/{name}/{role}/{origin}
 ```
 
 ## Description
@@ -20,22 +20,25 @@ The following parameters are required:
 
 ## Returns
 
-This method does not return any data.
+This method does not return any values.
 
 ## Errors
 
-| Code | Description         |
-| ---- | ------------------- |
-| 400  | Bad request         |
-| 401  | Authorization error |
-| 403  | Forbidden           |
+| Code | Description            |
+| ---- | ---------------------- |
+| 400  | Bad request            |
+| 401  | Authorization error    |
+| 403  | Forbidden              |
+| 409  | Enpoint-specific error |
+| 429  | Too many requests      |
+| 500  | Internal server error  |
 
 ## Examples
 
 ##### **Request**
 
 ```
-GET create_champion/sona/support/ionia
+POST create_champion/sona/support/ionia
 ```
 
 ##### Return

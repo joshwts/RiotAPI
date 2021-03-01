@@ -30,11 +30,14 @@ At least one parameter is required from the following:
 
 ## Errors
 
-| Code | Description         |
-| ---- | ------------------- |
-| 400  | Bad request         |
-| 401  | Authorization error |
-| 403  | Forbidden           |
+| Code | Description            |
+| ---- | ---------------------- |
+| 400  | Bad request            |
+| 401  | Authorization error    |
+| 403  | Forbidden              |
+| 409  | Enpoint-specific error |
+| 429  | Too many requests      |
+| 500  | Internal server error  |
 
 ## Examples
 
