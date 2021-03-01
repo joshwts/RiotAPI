@@ -1,6 +1,6 @@
 # RiotAPI
 
-Welcome to the Riot Developer API documentation.
+Welcome to the Riot Developer API documentation. This document is designed to provide you with a reference page for available API endpoints and the values which they return.
 
 ## Table of Contents
 
